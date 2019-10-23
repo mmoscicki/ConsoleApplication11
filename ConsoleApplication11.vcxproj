@@ -154,6 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Alexa-152.cpp" />
     <ClCompile Include="ConsoleApplication11.cpp" />
     <ClCompile Include="Jacofig.cpp" />
     <ClCompile Include="pch.cpp">
