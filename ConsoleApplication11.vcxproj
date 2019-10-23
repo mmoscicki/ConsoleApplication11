@@ -157,6 +157,7 @@
     <ClCompile Include="Alexa-152.cpp" />
     <ClCompile Include="ConsoleApplication11.cpp" />
     <ClCompile Include="Jacofig.cpp" />
+    <ClCompile Include="KWgames3.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
