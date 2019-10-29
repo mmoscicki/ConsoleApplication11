@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClCompile Include="Alexa-152.cpp" />
     <ClCompile Include="ConsoleApplication11.cpp" />
+    <ClCompile Include="eliza7899.cpp" />
     <ClCompile Include="Fajnykolesmichal.cpp" />
     <ClCompile Include="Jacofig.cpp" />
     <ClCompile Include="KWgames3.cpp" />
